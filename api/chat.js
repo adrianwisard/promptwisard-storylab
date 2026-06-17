@@ -6,6 +6,7 @@
 const ALLOWED_ORIGINS = [
   "https://www.wisard.ai",
   "https://wisard.ai",
+    "https://promptwisard-storylab.vercel.app",
 ];
 
 function setCors(req, res) {
